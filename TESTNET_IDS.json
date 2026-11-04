@@ -1,0 +1,9 @@
+{
+  "network": "testnet",
+  "rootPackageId": "0x5bbc666e64ca4b864a20207a8fab093619ff00685a0926abc872033e1549f8fb",
+  "qaRootObjectId": "0xf44e76035e5c143a197d9246a70eb4675ad130dee492ab4311f04c702e4a4a4a",
+  "rootVersionObserved": 3,
+  "certificationTransactionDigest": "92zm6JN6JHsSDe7wpyKjt3dv2U2sGkYBfpgG51daKf99",
+  "observedAt": "2026-11-04T21:23:10.271213Z",
+  "scope": "Public testnet identifiers only; no owner identity, witness catalogue, credentials or record plaintext."
+}
